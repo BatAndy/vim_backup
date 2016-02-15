@@ -18,6 +18,11 @@ nnoremap <F5> :NERDTree
 " set status line
 set laststatus=2
 
+" code folding
+"set foldenable
+"set foldmethod=syntax
+"set foldcolumn=0
+
 " enable powerline-fonts
 let g:airline_powerline_fonts = 1
 
